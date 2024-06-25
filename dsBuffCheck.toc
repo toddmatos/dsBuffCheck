@@ -1,1 +1,8 @@
+## Interface: 11200
+## Title: dsBuffCheck
+## Notes: Checks for specific buffs and flashes an icon if missing.
+## Author: Dashu
+## Version: 1.0
+
+dsBuffCheck.lua
 
